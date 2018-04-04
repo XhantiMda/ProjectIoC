@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectIoC", "ProjectIoC\ProjectIoC.csproj", "{B61FE33B-A311-43C9-8D42-00AEC5C9F11E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectIoCTests", "ProjectIoCTests\ProjectIoCTests.csproj", "{554E4E08-ADF5-479C-A239-0F40075D1C7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B61FE33B-A311-43C9-8D42-00AEC5C9F11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B61FE33B-A311-43C9-8D42-00AEC5C9F11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B61FE33B-A311-43C9-8D42-00AEC5C9F11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{554E4E08-ADF5-479C-A239-0F40075D1C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554E4E08-ADF5-479C-A239-0F40075D1C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554E4E08-ADF5-479C-A239-0F40075D1C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554E4E08-ADF5-479C-A239-0F40075D1C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
